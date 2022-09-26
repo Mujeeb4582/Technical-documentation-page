@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 Browser and git
 
 ### Install
-git clone https://github.com/Mujeeb4582/Hello-Microvers.git
+git clone https://github.com/Mujeeb4582/Technical-documentation-page.git
 
 ### Usage
 Open in browser
